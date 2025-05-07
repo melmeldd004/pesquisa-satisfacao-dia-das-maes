@@ -1,0 +1,3 @@
+import { useState } from "react";
+... // (conteúdo completo do componente React) ...
+}
